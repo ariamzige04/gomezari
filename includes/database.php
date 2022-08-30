@@ -3,10 +3,10 @@
 //host usuario contraseña nombreBD
 
 $db = mysqli_connect(
-    'sql107.epizy.com', 
-    'epiz_32466124', 
-    'fokUdSC6cytamcl', 
-    'epiz_32466124_curriculum_ari'
+    $_ENV['DB_HOST'], 
+    $_ENV['DB_USER'], 
+    $_ENV['DB_PASS'] ?? '', 
+    $_ENV['DB_BD']
 );
 
 
