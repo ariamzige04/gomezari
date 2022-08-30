@@ -1,0 +1,8 @@
+node_modules/
+src/
+vendor/
+fly-laravel/
+includes/.env/
+.env/
+# composer.json/
+# composer.lock/

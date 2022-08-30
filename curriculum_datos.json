@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "perfil": "1Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, nobis. Nesciunt alias dolores consequuntur corporis! Quos neque beatae illo libero animi earum totam ad distinctio voluptatem? Aperiam nobis culpa et.",
+    "empresa": "2En el 2021 trabajé en un sitio web del negocio Ecutronic, se puso en contacto conmigo y me paso sus ideas y requerimientos.",
+    "proyecto_info": "3Desde el 2020 hasta el 2022, he hecho distintos sitios web con diferentes tecnologías y arquitecturas.",
+    "html": 90,
+    "css": 90,
+    "js": 45,
+    "php": 40,
+    "gulp": 75,
+    "sass": 90,
+    "adobe_xd": 90,
+    "mysql": 45,
+    "administrarId": 1
+  }
+]
